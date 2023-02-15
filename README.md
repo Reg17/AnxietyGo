@@ -12,7 +12,7 @@
 
 ## Project Description
 
-We are creating an open-source project with the purpose to help people with social anxiety. Many people could benefit from this project.
+We are creating an open-source project with the purpose of helping people with social anxiety. Many people could benefit from this project.
 
 
 The purpose of the project is to build a cross-platform app (mainly iOS and Android). The app would show the users social challenges for them to do which helps with their social anxiety or any related anxiety disorders.
